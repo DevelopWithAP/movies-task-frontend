@@ -1,0 +1,100 @@
+{
+      "movies": [
+            {
+                  "movieId": 153,
+                  "title": "Lost in Translation",
+                  "releaseDate": "2003-09-18",
+                  "backdropPath": "https://image.tmdb.org/t/p/w500//3ZY8iEsv5XKiMU19T1MIvHET5Ih.jpg",
+                  "posterPath": "https://image.tmdb.org/t/p/w500//wkSzJs7oMf8MIr9CQVICsvRfwA7.jpg",
+                  "voteAverage": 7.4
+            },
+            {
+                  "movieId": 27205,
+                  "title": "Inception",
+                  "releaseDate": "2010-07-15",
+                  "backdropPath": "https://image.tmdb.org/t/p/w500//s3TBrRGB1iav7gFOCNx3H31MoES.jpg",
+                  "posterPath": "https://image.tmdb.org/t/p/w500//8IB2e4r4oVhHnANbnm7O3Tj6tF8.jpg",
+                  "voteAverage": 8.4
+            },
+            {
+                  "movieId": 121,
+                  "title": "The Lord of the Rings: The Two Towers",
+                  "releaseDate": "2002-12-18",
+                  "backdropPath": "https://image.tmdb.org/t/p/w500//kWYfW2Re0rUDE6IHhy4CRuKWeFr.jpg",
+                  "posterPath": "https://image.tmdb.org/t/p/w500//5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+                  "voteAverage": 8.4
+            },
+            {
+                  "movieId": 120,
+                  "title": "The Lord of the Rings: The Fellowship of the Ring",
+                  "releaseDate": "2001-12-18",
+                  "backdropPath": "https://image.tmdb.org/t/p/w500//gU84vBGG2x8K3x1zrz4SggiN5hr.jpg",
+                  "posterPath": "https://image.tmdb.org/t/p/w500//6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+                  "voteAverage": 8.4
+            },
+            {
+                  "movieId": 122,
+                  "title": "The Lord of the Rings: The Return of the King",
+                  "releaseDate": "2003-12-01",
+                  "backdropPath": "https://image.tmdb.org/t/p/w500//lXhgCODAbBXL5buk9yEmTpOoOgR.jpg",
+                  "posterPath": "https://image.tmdb.org/t/p/w500//rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+                  "voteAverage": 8.5
+            },
+            {
+                  "movieId": 1213,
+                  "title": "The Talented Mr. Ripley",
+                  "releaseDate": "1999-12-25",
+                  "backdropPath": "https://image.tmdb.org/t/p/w500//51UDa3IuGyiKGe2MgMcLGvJE2Fm.jpg",
+                  "posterPath": "https://image.tmdb.org/t/p/w500//6ojHgqtIR41O2qLKa7LFUVj0cZa.jpg",
+                  "voteAverage": 7.2
+            },
+            {
+                  "movieId": 694,
+                  "title": "The Shining",
+                  "releaseDate": "1980-05-23",
+                  "backdropPath": "https://image.tmdb.org/t/p/w500//AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg",
+                  "posterPath": "https://image.tmdb.org/t/p/w500//nRj5511mZdTl4saWEPoj9QroTIu.jpg",
+                  "voteAverage": 8.2
+            },
+            {
+                  "movieId": 497,
+                  "title": "The Green Mile",
+                  "releaseDate": "1999-12-10",
+                  "backdropPath": "https://image.tmdb.org/t/p/w500//l6hQWH9eDksNJNiXWYRkWqikOdu.jpg",
+                  "posterPath": "https://image.tmdb.org/t/p/w500//velWPhVMQeQKcxggNEU8YmIo52R.jpg",
+                  "voteAverage": 8.5
+            },
+            {
+                  "movieId": 8358,
+                  "title": "Cast Away",
+                  "releaseDate": "2000-12-22",
+                  "backdropPath": "https://image.tmdb.org/t/p/w500//3Xt0rpFxt06rtvrepFGwZ17441f.jpg",
+                  "posterPath": "https://image.tmdb.org/t/p/w500//ydtGc9GXq0XGKozNOs0kmzfuuBm.jpg",
+                  "voteAverage": 7.7
+            },
+            {
+                  "movieId": 653936,
+                  "title": "Zátopek",
+                  "releaseDate": "2021-08-26",
+                  "backdropPath": "https://image.tmdb.org/t/p/w500//AdTenjeOQRqAs1tNPKbDWLS8IGw.jpg",
+                  "posterPath": "https://image.tmdb.org/t/p/w500//uNa571MiptVIb2gZKbcdSTaMXCz.jpg",
+                  "voteAverage": 8.5
+            },
+            {
+                  "movieId": 13,
+                  "title": "Forrest Gump",
+                  "releaseDate": "1994-06-23",
+                  "backdropPath": "https://image.tmdb.org/t/p/w500//oJmBWLUCKbgra8D9ZrLE1nBic5v.jpg",
+                  "posterPath": "https://image.tmdb.org/t/p/w500//saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
+                  "voteAverage": 8.5
+            },
+            {
+                  "movieId": 463088,
+                  "title": "The Game Changers",
+                  "releaseDate": "2019-09-16",
+                  "backdropPath": "https://image.tmdb.org/t/p/w500//uUfpJQ9Jh9CcHIkmNKWYywaYERF.jpg",
+                  "posterPath": "https://image.tmdb.org/t/p/w500//eufF3xEif5EZ1gTjdubw3KWh9xU.jpg",
+                  "voteAverage": 7.4
+            }
+      ]
+}

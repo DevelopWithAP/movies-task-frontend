@@ -1,25 +1,24 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import SignUp from './Components/SignUp/SignUp';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import Login from './Components/Login/Login';
+import MyMovies from './Components/MyMovies/MyMovies';
+import User from './Components/User/User';
+import Container from 'react-bootstrap/Container';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Container>
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<SignUp />} />
+          <Route path="login" element={<Login />} />
+          <Route element={<MyMovies />} path="movies"/>
+          <Route element={<User />} path="users/personal" /> 
+        </Routes>
+      </BrowserRouter>
+    </Container>
   );
 }
 

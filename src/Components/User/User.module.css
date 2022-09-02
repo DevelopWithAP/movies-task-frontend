@@ -1,0 +1,9 @@
+.container {
+    margin-top: 50px;
+}
+
+.navLink {
+    color: black;
+    text-decoration: none;
+    margin: 5px;
+}
